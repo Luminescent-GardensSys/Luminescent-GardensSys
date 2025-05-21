@@ -23,10 +23,8 @@ basic dni, larger list on straw <-- WIP
 
 <div align="center">
  
-![](https://github.com/user-attachments/assets/55a73ad1-9c97-43d8-930a-8c1fcc99d452)
+![](https://pin.it/scHpCcp6o)
 
-
-![](https://komarev.com/ghpvc/?username=Luminescent-GardensSys=000000)
 
 still a wip
   
