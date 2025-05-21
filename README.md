@@ -1,23 +1,22 @@
 
-<p align="center"> ${{\color{#31E0F7}\Huge{\texttt{Luminescent Gardens}}}}$ </p>
+<p align="center"> ${{\color{#31E0F7}\Huge{\texttt{✫LuminescentGardens}}}}$ </p>
 
 <div align="center">
-
-
-
-── .✦
-
- 🐾`` @,,- 《 See you on the creature trail <3
  
 <div align="center">
 •
 <div align="center">
 ×
 <div align="center">
+╔═══════ ≪ °•°♡°•° ≫ ═══════╗
+
+
 'endogenic' +
-basic dni, larger list on straw <-- WIP
+basic dni, larger list on straw ≪-- WIP
  , DIDsys , diagnosed × bodily minor, iwc
  
+
+ ╚════·:·.✧《 𓏵 } ✧.·:·════╝
 
 </div>
 
@@ -35,4 +34,4 @@ still a wip
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ffff)](https://github.com/kittinan/spotify-github-profile)
 
- <p align="center"> ${{\color{#31E0F7}\Huge{\texttt{(still learning}}}}$ </p>
+ <p align="center"> ${{\color{#31E0F7}\Huge{\texttt{still learning}}}}$ </p>
